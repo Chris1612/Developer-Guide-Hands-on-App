@@ -14,7 +14,7 @@
     },
     "dependencies": {
         "node-red": "1.2.8",
-        "node-red-node-email": "1.7.0",
+        "node-red-node-email": "1.12.1",
         "node-red-contrib-mytimeout": "3.0.1",
         "node-red-contrib-advance-logger": "1.0.2",
         "node-red-contrib-wfwatch": "*",
