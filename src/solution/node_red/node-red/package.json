@@ -19,7 +19,7 @@
         "node-red-contrib-advance-logger": "1.0.2",
         "node-red-contrib-wfwatch": "*",
         "node-red-contrib-zip": "1.0.0",
-        "node-red-contrib-influxdb": "~0.4.0"
+        "node-red-contrib-influxdb": "~0.5.0"
     },
     "engines": {
         "node": "4.*.*"
